@@ -1,4 +1,4 @@
-# Urara Nagashima a.k.a urara222000
+# Urara Nagashima a.k.a @urara222000
 ## 学歴
 関東国際高等学校外国語科タイ語コース2019年3月卒業
 
