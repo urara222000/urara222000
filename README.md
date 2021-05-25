@@ -1,2 +1,4 @@
-# portfolio
-https://github.com/urara222000/portfolio/commit/56f5c8270c8c291e0ffe9ae5db543ca4a5cf3f98#commitcomment-51234761
+# urara222000
+学歴
+関東国際高等学校外国語科タイ語コース2019年3月卒業
+青山学院大学地球社会共生学部地球社会共生学科在学中
