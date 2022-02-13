@@ -14,3 +14,4 @@
 
 ### 古橋研究室2022年ゼミ論用レポジトリ
 
+https://github.com/furuhashilab/2021gsc_UraraNagashima
