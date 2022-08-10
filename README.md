@@ -27,3 +27,5 @@
 https://github.com/furuhashilab/2021gsc_UraraNagashima
 
 ### 古橋研究室2022年卒論用レポジトリ
+
+https://github.com/furuhashilab/2022gsc_UraraNagashima/blob/main/README.md
